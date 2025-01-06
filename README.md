@@ -1,5 +1,3 @@
-# Radar Gesture Recognition
-
 # Hand Gesture Recognition Using FMCW Radar
 
 ## Problem
